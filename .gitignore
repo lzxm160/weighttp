@@ -2,7 +2,6 @@
 .lock-wscript
 .DS_Store
 *~
-*build
 weighttp
 Makefile.in
 aclocal.m4
